@@ -1,0 +1,1 @@
+export default function Page(){return <main className="container"><div className="card"><h1>Conversation</h1><p>Grounded RAG conversation.</p></div></main>}

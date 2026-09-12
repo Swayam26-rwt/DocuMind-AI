@@ -1,0 +1,1 @@
+export default function Page(){return <main className="container"><div className="card"><h1>Workspace Settings</h1><p>DocuMind AI module.</p></div></main>}

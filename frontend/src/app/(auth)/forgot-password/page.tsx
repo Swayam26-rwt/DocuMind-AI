@@ -1,0 +1,1 @@
+export default function Page(){return <main className="container"><div className="card"><h1>Forgot Password</h1><input className="input" placeholder="Email"/><br/><br/><button className="btn">Continue</button></div></main>}

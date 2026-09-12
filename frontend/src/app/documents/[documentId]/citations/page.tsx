@@ -1,0 +1,1 @@
+export default function Page(){return <main className="container"><div className="card"><h1>Citations & Evidence</h1><p>Document intelligence view.</p></div></main>}

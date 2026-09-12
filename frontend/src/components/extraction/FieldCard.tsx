@@ -1,0 +1,1 @@
+export function FieldCard({name,value,confidence}:{name:string,value:string,confidence:number}){return <div className="card"><b>{name}</b><p>{value}</p><small>Confidence {(confidence*100).toFixed(0)}%</small></div>}

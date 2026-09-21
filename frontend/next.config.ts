@@ -1,1 +1,7 @@
-const nextConfig = {}; export default nextConfig;
+import type { NextConfig } from "next";
+
+const nextConfig: NextConfig = {
+  agentRules: false,
+};
+
+export default nextConfig;

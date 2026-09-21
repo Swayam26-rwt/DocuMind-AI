@@ -20,6 +20,31 @@
   DocuMind AI transforms unstructured documents into searchable, structured, explainable and verifiable knowledge using multi-format parsing, OCR, RAG, hybrid search, AI extraction, citations, confidence scoring and human-in-the-loop verification.
 </p>
 
+<p align="center">
+  <a href="SYSTEM DESIGN.md">
+    <img src="https://img.shields.io/badge/📐_System_Design-Read_Full_Doc-6366f1?style=for-the-badge" alt="System Design" />
+  </a>
+</p>
+
+---
+
+## 📐 System Design
+
+> The complete system design document covers architecture, database schema, API spec, RAG pipeline, authentication, evaluation strategy and more.
+
+**[👉 Read the Full System Design Document →](SYSTEM%20DESIGN.md)**
+
+| Section | Description |
+|---------|-------------|
+| [System Architecture](SYSTEM%20DESIGN.md#3-system-architecture) | High-level component diagram |
+| [Database ER Diagram](SYSTEM%20DESIGN.md#4-database-er-diagram) | All 18 tables with relationships |
+| [API Specification](SYSTEM%20DESIGN.md#6-api-specification) | Full REST API reference |
+| [RAG Architecture](SYSTEM%20DESIGN.md#7-rag-architecture) | Hybrid retrieval pipeline design |
+| [Document Processing](SYSTEM%20DESIGN.md#8-document-processing-pipeline) | Multi-format parsing pipeline |
+| [Auth / RBAC](SYSTEM%20DESIGN.md#9-authentication--rbac-architecture) | JWT + role-based access control |
+| [AI Evaluation](SYSTEM%20DESIGN.md#10-ai-evaluation-architecture) | RAGAS-style evaluation framework |
+| [Frontend Structure](SYSTEM%20DESIGN.md#11-frontend-page-structure) | All pages and component layout |
+
 ---
 
 ## ✨ Features
